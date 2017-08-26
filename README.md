@@ -1,5 +1,5 @@
 # Battle-of-Bots-9
-This is my submission for Battle of Bots #9 held on HackerEarth which was ranked 2nd in India and 7th in the world.
+This is my submission for Battle of Bots #9 held on HackerEarth which ranked 2nd in India and 7th in the world.
 
 Battle of Bots is HackerEarth's flagship Artificial Intelligence Challenge. It's one of a kind challenge that runs for 6 days. There is only one problem statement in the challenge - the game for which the contestants have to write a bot.
 
